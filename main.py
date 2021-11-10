@@ -1,4 +1,4 @@
-text = input("Enter text\n")
+text = input("Is you name Peter?\n")
 
-if text == "Peter":
-  print("Hello world !")
+if text.upper() == "PETER":
+  print("Hello World !")
